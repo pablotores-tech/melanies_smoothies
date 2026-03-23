@@ -4,3 +4,4 @@
 # If a package repository server is not reachable and the pyproject.toml file has not been modified, the app will fall back to the default version of the Streamlit library.
 snowflake-snowpark-python
 streamlit
+requests
